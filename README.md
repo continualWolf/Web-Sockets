@@ -6,7 +6,7 @@ This project is a minimalistic WebSocket proof of concept in C#. It demonstrates
 
 I have created this POC as i would like to use websockets in various applications such as a messaging application and chess application. 
 
-#Usage
+# Usage
 
 To use this WebSocket server, follow these steps:
 

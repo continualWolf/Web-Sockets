@@ -1,0 +1,15 @@
+C:\Users\Benjamin\source\repos\WebSockets\bin\Debug\net7.0\WebSockets.exe
+C:\Users\Benjamin\source\repos\WebSockets\bin\Debug\net7.0\WebSockets.deps.json
+C:\Users\Benjamin\source\repos\WebSockets\bin\Debug\net7.0\WebSockets.runtimeconfig.json
+C:\Users\Benjamin\source\repos\WebSockets\bin\Debug\net7.0\WebSockets.dll
+C:\Users\Benjamin\source\repos\WebSockets\bin\Debug\net7.0\WebSockets.pdb
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.csproj.AssemblyReference.cache
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.AssemblyInfoInputs.cache
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.AssemblyInfo.cs
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.dll
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\refint\WebSockets.dll
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.pdb
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\WebSockets.genruntimeconfig.cache
+C:\Users\Benjamin\source\repos\WebSockets\obj\Debug\net7.0\ref\WebSockets.dll
